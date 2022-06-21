@@ -1,0 +1,138 @@
+	prize	terminal	type	degree	betweenness	louvain_clusters	location	general_process	specific_process	general_function	specific_function	node_type	F30_N30.l2fc	nodereach
+ACO1	12.820512820512821	True	protein	1	0.0	10	extracellular	cellular process	cellular homeostasis	binding	organic cyclic compound binding	actomyosin	-0.475355791025106	act5
+ACTN1	0.0	False	protein	22	0.43302832244008654	3	plasma_membrane	cellular process	cellular component organization	binding	protein binding	other	-0.0890998386157809	both
+ACTN2	23.2058898036043	True	protein	9	0.5282788671023967	3	plasma_membrane	biological regulation	regulation of biological process	binding	protein binding	GO	1.3205889803604298	both
+ACVR1	10.739214329247433	True	protein	7	0.0	5	protein complex	biological regulation	regulation of biological process	binding	protein binding	GO	0.0739214329247433	int5
+ADAM12	0.0	False	protein	4	0.5061002178649238	3	nucleus	cellular process	syncytium formation	binding	protein binding	other	2.50092733157457	act5
+ADRA1A	88.9546937124401	True	protein	1	0.0	4	nucleus	biological regulation	regulation of biological process	molecular transducer	signaling receptor	GO	7.89546937124401	act5
+ADRA1B	0.0	False	protein	2	0.014596949891067537	4	nucleus	biological regulation	regulation of biological process	binding	protein binding	other	0.6582504065064629	act5
+AGTR2	34.4847199344379	True	protein	2	0.0	0	plasma_membrane	biological regulation	regulation of biological process	binding	protein binding	GO	2.44847199344379	int5
+AKAP13	19.348777997525232	True	protein	9	0.0	0	cytoplasm	biological regulation	regulation of biological process	binding	protein binding	GO	0.934877799752523	int5
+AKAP6	26.718742728029703	True	protein	1	0.0	12	ER	biological regulation	regulation of biological process	binding	protein binding	GO	1.67187427280297	act5
+ANKRD1	0.0	False	protein	4	0.011176470588235295	3	nucleus	cellular process	cellular response to stimulus	binding	protein binding	other	-0.16384794153463098	none
+ANKRD2	0.0	False	protein	5	0.08431372549019607	10	nucleus	biological regulation	regulation of biological process	binding	protein binding	other	1.78340243310054	act5
+AP2M1	0.0	False	protein	34	0.0289760348583878	4	vesicle	cellular process	cellular component organization	binding	protein binding	other	0.364166205910349	act5
+APOBEC3G	12.820512820512821	True	protein	2	0.0	12	nucleus	biological regulation	regulation of biological process	binding	protein binding	actomyosin	-0.545812002986452	act5
+BMP2	10.0	True	protein	4	0.0	5	plasma_membrane	biological regulation	regulation of biological process	binding	protein binding	GO	-2.47546605861491	int5
+BMP4	10.0	True	protein	3	0.0	5	extracellular	biological regulation	regulation of biological process	binding	protein binding	GO	-1.2919335468555702	int5
+BMP7	0.0	False	protein	6	5.446623093681917e-05	5	extracellular	biological regulation	regulation of biological process	binding	protein binding	other	1.05606983043267	none
+BMPR1B	0.0	False	protein	5	5.446623093681917e-05	5	plasma_membrane	biological regulation	regulation of biological process	catalytic	transferase	other	1.05081835677691	none
+BMPR2	0.0	False	protein	12	0.07145969498910675	5	plasma_membrane	biological regulation	regulation of biological process	binding	protein binding	other	0.389317459025335	int5
+CAV3	49.204259195227706	True	protein	2	0.0	0	plasma_membrane	biological regulation	regulation of biological process	binding	protein binding	GO	3.92042591952277	both
+CDK1	14.65779783778467	True	protein	66	0.043137254901960784	9	cytoskeleton	cellular process	cellular component organization	catalytic	transferase	GO	0.465779783778467	act5
+CDKN3	0.0	False	protein	4	0.0289760348583878	9	cytoplasm	biological regulation	regulation of biological process	catalytic	hydrolase	other	0.701576825354192	act5
+CELF1	12.820512820512821	True	protein	1	0.0	11	nucleus	cellular process	cellular component organization	binding	organic cyclic compound binding	actomyosin	0.104931853084552	none
+CIAO1	0.0	False	protein	16	0.014596949891067537	10	cytoskeleton	biological regulation	regulation of biological process	binding	protein binding	other	0.16590038451534697	act5
+CIRBP	0.0	False	protein	4	0.09760348583877995	4	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	other	0.6306281525923211	none
+CLK1	0.0	False	protein	3	0.24507080610021786	1	nucleus	metabolic process	nitrogen compound metabolic process	catalytic	transferase	other	0.25119896681612397	none
+CNOT1	0.0	False	protein	24	0.07627087872185911	7	peroxisome	biological regulation	regulation of biological process	binding	protein binding	other	-0.36594369109388397	none
+CNOT4	0.0	False	protein	5	0.08665577342047928	7	cytoplasm	cellular process	cell cycle checkpoint	binding	protein binding	other	0.314396047079836	none
+CPSF6	12.820512820512821	True	protein	14	0.04842047930283224	1	nucleus	cellular process	cellular component organization	binding	organic cyclic compound binding	actomyosin	0.198920060733966	none
+CSRP3	25.923785751013895	True	protein	2	0.0	6	protein complex	multicellular organismal process	system process	binding	protein binding	GO	1.59237857510139	none
+CTNNAL1	0.0	False	protein	4	0.014596949891067537	0	cytoplasm	cellular process	cell communication	binding	protein binding	other	0.451286560318454	int5
+DAG1	0.0	False	protein	14	0.11713870733478575	0	plasma_membrane	biological regulation	regulation of biological process	binding	protein binding	other	0.678418010745462	both
+DDX39B	15.92800632648365	True	protein	16	0.08431372549019607	2	nucleus	metabolic process	organic substance metabolic process	binding	protein binding	GO	0.592800632648365	act5
+DDX6	0.0	False	protein	12	0.01972585330428468	7	nucleus	cellular process	cellular component organization	binding	protein binding	other	0.15692581981505	none
+DISC1	0.0	False	protein	14	0.0289760348583878	3	cytoskeleton	cellular process	cellular component organization	binding	protein binding	other	-0.42456247636485295	none
+DKC1	12.820512820512821	True	protein	15	0.0049745824255628	8	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	-0.0244617405048713	none
+DMD	0.0	False	protein	10	0.0289760348583878	0	plasma_membrane	biological regulation	regulation of biological process	binding	protein binding	other	1.31584820074724	int5
+ELAVL1	12.820512820512821	True	protein	37	0.014596949891067537	11	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	0.027435618286822002	none
+EPS15L1	0.0	False	protein	6	0.043137254901960784	4	cytoplasm	cellular process	cellular component organization	binding	protein binding	other	0.508133350462505	act5
+FBXL22	0.0	False	protein	3	0.009095860566448802	3	nucleus	metabolic process	nitrogen compound metabolic process	catalytic	transferase	other	1.60043897353315	none
+FBXL5	0.0	False	protein	13	0.014596949891067537	10	protein complex	cellular process	cellular homeostasis	catalytic	transferase	other	-0.0871368069876398	act5
+FHL2	39.423103125008396	True	protein	35	0.290159767610748	5	plasma_membrane	biological regulation	regulation of biological process	binding	protein binding	GO	2.94231031250084	both
+FLNC	0.0	False	protein	14	0.015439360929557007	3	plasma_membrane	cellular process	cellular component organization	binding	protein binding	other	0.309285801602729	act5
+FMR1	12.820512820512821	True	protein	12	0.026089324618736382	1	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	0.14776922024397002	none
+FXR2	0.0	False	protein	12	0.03603848946986203	1	extracellular	biological regulation	regulation of biological process	binding	protein binding	other	0.7301773041748199	none
+FYTTD1	0.0	False	protein	3	0.09760348583877995	2	nucleus	metabolic process	organic substance metabolic process	binding	organic cyclic compound binding	other	0.266822708948801	act5
+GAR1	12.820512820512821	True	protein	11	0.07091503267973856	8	nucleus	metabolic process	nitrogen compound metabolic process	binding	organic cyclic compound binding	actomyosin	-0.0815055705957109	none
+GATA4	10.0	True	protein	9	0.0289760348583878	5	nucleus	developmental process	anatomical structure development	binding	protein binding	GO	-0.085184890566074	int5
+GSK3A	10.0	True	protein	16	0.05708061002178649	12	protein complex	biological regulation	regulation of biological process	binding	protein binding	GO	-0.0792184870341432	both
+HDAC9	0.0	False	protein	16	0.04335511982570806	6	nucleus	cellular process	cellular component organization	binding	protein binding	other	1.06969276273722	none
+HSF5	0.0	False	protein	2	0.07080610021786492	9	nucleus	cellular process	cellular response to stimulus	transcription regulator	DNA-binding transcription factor	other	1.3487775591956002	act5
+IFIT1	12.820512820512821	True	protein	4	0.014596949891067537	4	cytoplasm	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	1.1678566239835901	none
+IFIT5	12.820512820512821	True	protein	4	0.0	4	plasma_membrane	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	0.19734684273506198	none
+IFRD1	0.0	False	protein	2	0.0	6		developmental process	anatomical structure development	binding	protein binding	other	0.24991648870795302	none
+IGF1	10.0	True	protein	3	0.0	3	protein complex	biological regulation	regulation of biological process	binding	protein binding	GO		act5
+IGFBP3	0.0	False	protein	9	0.014596949891067537	3	extracellular	biological regulation	regulation of biological process	binding	protein binding	other	-2.5207170654554	act5
+IREB2	12.820512820512821	True	protein	5	0.05751633986928104	10	cytoplasm	biological regulation	regulation of biological quality	binding	organic cyclic compound binding	actomyosin	-0.0749619179766485	act5
+ISG15	0.0	False	protein	21	0.0289760348583878	4	nucleus	biological regulation	regulation of biological process	binding	protein binding	other	-0.452000718921701	none
+ITGA1	300.0	True	protein	3	0.0	0	plasma_membrane	biological regulation	regulation of biological process	binding	protein binding	integrin	-1.4075538214215901	int5
+ITGA8	300.0	True	protein	1	0.0	13	plasma_membrane	developmental process	anatomical structure development	binding	ion binding	integrin	-0.29887974808119105	none
+ITGAV	300.0	True	protein	6	0.0	0	plasma_membrane	biological regulation	regulation of biological process	binding	protein binding	integrin	-0.0504346162284533	int5
+ITGB1	10.796605589163539	True	protein	29	0.0962962962962963	0	plasma_membrane	cellular process	movement of cell or subcellular component	binding	protein binding	GO	0.079660558916354	both
+ITSN2	0.0	False	protein	9	0.05708061002178649	4	extracellular	biological regulation	regulation of biological process	binding	protein binding	other	1.11883538236766	act5
+KHDRBS1	12.820512820512821	True	protein	39	0.5552287581699347	4	nucleus	biological regulation	regulation of biological process	binding	protein binding	actomyosin	0.177634309150292	act5
+KHDRBS2	0.0	False	protein	9	0.12352941176470587	4	nucleus	metabolic process	nitrogen compound metabolic process	binding	protein binding	other	-4.98363674249131	act5
+KHDRBS3	12.820512820512821	True	protein	9	0.1937636165577342	4	nucleus	cellular process	cellular component organization	binding	protein binding	actomyosin	1.55014539139956	act5
+KRR1	0.0	False	protein	3	0.0289760348583878	2	nucleus	metabolic process	nitrogen compound metabolic process	binding	protein binding	other	0.534986803788516	act5
+LIN28A	12.820512820512821	True	protein	9	0.043137254901960784	2	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	-7.99838795638014	act5
+LIN28B	12.820512820512821	True	protein	3	0.0	2	nucleus	metabolic process	nitrogen compound metabolic process	binding	organic cyclic compound binding	actomyosin	-4.57466796200819	act5
+LMNA	20.6861388271397	True	protein	68	0.0	3	nucleus	biological regulation	regulation of biological process	binding	protein binding	GO	1.06861388271397	none
+MAML1	10.345563164644556	True	protein	4	0.014596949891067537	6	nucleus	biological regulation	regulation of biological process	binding	protein binding	GO	0.0345563164644555	none
+MEF2A	25.779617818603995	True	protein	15	0.0	6	nucleus	biological regulation	regulation of biological process	binding	protein binding	GO	1.5779617818604	none
+MEF2C	11.347839201264529	True	protein	9	0.09891067538126361	6	nucleus	biological regulation	regulation of biological process	binding	protein binding	GO	0.13478392012645302	int5
+MMP2	0.0	False	protein	11	0.05751633986928104	0	extracellular	cellular process	cellular response to stimulus	catalytic	hydrolase	other	-0.170595525720074	int5
+MYBPC1	10.0	True	protein	4	0.0	5	cytoskeleton	cellular process	actin filament-based process	binding	protein binding	GO	-5.29200041344704	both
+MYBPC3	24.122573495675297	True	protein	1	0.0	3	cytoskeleton	multicellular organismal process	multicellular organism development	binding	protein binding	GO	1.4122573495675301	both
+MYL2	28.1423895992517	True	protein	3	0.0	9	protein complex	multicellular organismal process	multicellular organism development	binding	protein binding	GO	1.81423895992517	act5
+MYOCD	15.658526779215931	True	protein	5	0.0	5	nucleus	biological regulation	regulation of biological process	binding	protein binding	GO	0.565852677921593	int5
+MYOD1	0.0	False	protein	30	0.014596949891067537	6	nucleus	biological regulation	regulation of biological process	binding	protein binding	other	2.2990642226154505	none
+MYOT	0.0	False	protein	2	0.003540305010893246	3	cytoskeleton	multicellular organismal process	system process	binding	protein binding	other	2.77734209545276	act5
+MYOZ1	0.0	False	protein	4	0.12463326071169209	3	nucleus	cellular process	cellular component organization	binding	protein binding	other	1.0365059986009302	act5
+MYPN	0.0	False	protein	2	0.0001633986928104575	3	protein complex	cellular process	cellular component organization	binding	protein binding	other	1.72300798899853	none
+NAF1	12.820512820512821	True	protein	4	0.0	8	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	0.37855695176106297	none
+NANOS1	0.0	False	protein	2	0.014596949891067537	7	cytoplasm	biological regulation	regulation of biological process	binding	protein binding	other	0.7210341423006991	none
+NBR1	0.0	False	protein	12	0.07080610021786492	12	extracellular	cellular process	process utilizing autophagic mechanism	binding	protein binding	other	0.00552430493413503	both
+NCBP1	0.0	False	protein	12	0.07124183006535947	2	nucleus	metabolic process	organic substance metabolic process	binding	organic cyclic compound binding	other	0.20751779239818102	act5
+NCBP2	12.820512820512821	True	protein	2	0.0	2	nucleus	cellular process	cell communication	binding	organic cyclic compound binding	actomyosin	-0.7686930272657729	act5
+NEB	10.0	True	protein	5	0.03206971677559913	3	cytoskeleton	cellular process	cellular component organization	binding	protein binding	GO	-0.0568858164520097	both
+NEBL	25.1417925526887	True	protein	3	0.0	3	cytoskeleton	cellular process	cellular developmental process	binding	protein binding	GO	1.51417925526887	none
+NHP2	12.820512820512821	True	protein	4	0.004756717501815524	8	nucleus	metabolic process	nitrogen compound metabolic process	binding	organic cyclic compound binding	actomyosin	0.162236127680326	none
+NIFK	12.820512820512821	True	protein	19	0.014596949891067537	2	nucleus	cellular process	cellular component organization	binding	organic cyclic compound binding	actomyosin		act5
+NKX2-5	23.109972719196	True	protein	6	0.014596949891067537	5	nucleus	developmental process	anatomical structure development	binding	organic cyclic compound binding	GO	1.3109972719196001	int5
+NOP10	12.820512820512821	True	protein	4	0.004756717501815524	8	nucleus	metabolic process	nitrogen compound metabolic process	binding	organic cyclic compound binding	actomyosin	-0.14813270858139002	none
+NUDT21	12.820512820512821	True	protein	12	0.06087509077705156	1	nucleus	cellular process	cellular component organization	binding	protein binding	actomyosin	-0.141390944291866	act5
+NUFIP1	12.820512820512821	True	protein	9	0.0	1	nucleus	cellular process	cellular component organization	binding	protein binding	actomyosin	-0.109805949358124	none
+NUFIP2	12.820512820512821	True	protein	6	0.007225853304284677	7	nucleus			binding	organic cyclic compound binding	actomyosin	0.151066287797582	none
+NXF1	0.0	False	protein	32	0.2244553376906318	2	nucleus	localization	macromolecule localization	binding	protein binding	other	0.42620807600807503	act5
+PACSIN3	0.0	False	protein	5	0.4884531590413943	4	extracellular	biological regulation	regulation of biological process	binding	protein binding	other	0.48927478263225	act5
+PATL1	12.820512820512821	True	protein	2	0.0	7	nucleus	cellular process	cellular component organization	binding	organic cyclic compound binding	actomyosin	0.181158544110173	none
+PRKACA	0.0	False	protein	25	0.04335511982570806	12	nucleus	biological regulation	regulation of biological process	catalytic	transferase	other	0.9241437358142192	act5
+PSMF1	0.0	False	protein	6	0.05708061002178649	11	protein complex	metabolic process	nitrogen compound metabolic process	binding	protein binding	other	0.26219512093007896	none
+PUM2	12.820512820512821	True	protein	3	0.0	7	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	0.172056192008674	none
+RBFOX2	12.820512820512821	True	protein	9	0.04335511982570806	11	nucleus	biological regulation	regulation of biological process	binding	protein binding	actomyosin	0.530687898245148	none
+RBM15	12.820512820512821	True	protein	7	0.09903776325344951	2	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	0.18851692426610298	act5
+RBM15B	12.820512820512821	True	protein	2	0.0	2	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	-0.246911545110536	act5
+RBM7	0.0	False	protein	11	0.07824074074074074	4	nucleus	reproduction		binding	protein binding	other	-0.33276710173290597	none
+RBMX	12.820512820512821	True	protein	13	0.11067538126361655	4	nucleus	cellular process	cellular component organization	binding	organic cyclic compound binding	actomyosin	0.00392593847822515	act5
+RBPJ	10.0	True	protein	19	0.0	6	nucleus	biological regulation	regulation of biological process	binding	protein binding	GO	-0.0443416616427348	none
+RBPMS	12.820512820512821	True	protein	42	0.0	11	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	0.722388406529729	none
+RC3H1	0.0	False	protein	3	0.005128903413217138	7	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	other	-0.336127251406001	none
+RNPS1	12.820512820512821	True	protein	36	0.08985112563543934	1	nucleus	metabolic process	organic substance metabolic process	binding	organic cyclic compound binding	actomyosin	0.13713008137039698	act5
+ROCK2	0.0	False	protein	2	0.014596949891067537	9	cytoskeleton	biological regulation	regulation of biological process	catalytic	transferase	other	0.35037649020382106	act5
+RYR2	0.0	False	protein	6	0.014596949891067537	12	ER	biological regulation	regulation of biological process	binding	protein binding	other	1.95859214719996	act5
+SAMHD1	12.820512820512821	True	protein	9	0.05708061002178649	9	nucleus	cellular process	cell communication	binding	organic cyclic compound binding	actomyosin	0.140464917625312	act5
+SERPINB5	0.0	False	protein	6	0.043137254901960784	4	extracellular	biological regulation	regulation of biological process	binding	protein binding	other	-0.4384708857407779	none
+SGCD	20.8961275350745	True	protein	1	0.0	3	protein complex	multicellular organismal process	multicellular organism development	binding	protein binding	GO	1.08961275350745	act5
+SORBS2	23.240185715146396	True	protein	9	0.0	3	plasma_membrane	cellular process	cell communication	binding	protein binding	GO	1.3240185715146398	both
+SRF	22.040448544479297	True	protein	24	0.1770152505446623	5	nucleus	developmental process	anatomical structure development	binding	protein binding	GO	1.2040448544479299	both
+SRSF1	12.820512820512821	True	protein	22	0.25794299201161947	1	nucleus	metabolic process	organic substance metabolic process	binding	organic cyclic compound binding	actomyosin	0.433483552535372	act5
+SRSF10	12.820512820512821	True	protein	5	0.0	1	nucleus	metabolic process	nitrogen compound metabolic process	binding	protein binding	actomyosin	0.434205909365113	none
+SRSF3	12.820512820512821	True	protein	13	0.06979847494553376	1	nucleus	metabolic process	organic substance metabolic process	binding	organic cyclic compound binding	actomyosin	0.475871203590735	none
+SRSF6	12.820512820512821	True	protein	6	0.06146514161220044	1	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	0.402760525866656	act5
+SYNE1	0.0	False	protein	4	0.014596949891067537	3	nucleus	cellular process	cellular component organization	binding	protein binding	other	1.45143200665885	none
+TBX5	21.5069877128607	True	protein	2	0.0	5	nucleus	developmental process	anatomical structure development	binding	organic cyclic compound binding	GO	1.1506987712860701	none
+TCAP	23.751248752915703	True	protein	6	0.10297748729121275	3	protein complex	multicellular organismal process	system process	binding	protein binding	GO	1.3751248752915701	both
+TEAD1	0.0	False	protein	8	0.11067538126361655	5	nucleus	biological regulation	regulation of biological process	binding	protein binding	other	0.656835936601073	int5
+TIMP2	0.0	False	protein	4	0.014596949891067537	0	extracellular	biological regulation	regulation of biological process	binding	protein binding	other	0.0350157344030548	int5
+TIMP3	0.0	False	protein	2	0.014596949891067537	0	extracellular	biological regulation	regulation of biological process	binding	protein binding	other	0.7225727310333249	int5
+TRA2A	0.0	False	protein	8	0.26505991285403047	1	nucleus	metabolic process	nitrogen compound metabolic process	binding	organic cyclic compound binding	other	0.24500658480779397	none
+TRIM63	0.0	False	protein	31	0.07563180827886717	3	cytoskeleton	response to stimulus	response to chemical	binding	protein binding	other	1.5888654275171203	both
+TTN	23.208894249142496	True	protein	11	0.3492592592592589	3	cytoskeleton	cellular process	cellular component organization	binding	protein binding	GO	1.32088942491425	both
+WDR77	0.0	False	protein	30	0.08431372549019607	4	cytoplasm	biological regulation	regulation of biological process	binding	protein binding	other	0.44831804611535603	none
+WRAP53	12.820512820512821	True	protein	5	0.0	8	nucleus	biological regulation	regulation of biological process	binding	protein binding	actomyosin	-0.12440680250618599	none
+WT1	39.196949998373405	True	protein	9	0.0	10	nucleus	developmental process	anatomical structure development	binding	organic cyclic compound binding	GO	2.9196949998373403	act5
+XIRP2	0.0	False	protein	2	0.014596949891067537	3	plasma_membrane	cellular process	cellular component organization	binding	protein binding	other	4.53795388312626	none
+YBX1	12.820512820512821	True	protein	33	0.07080610021786492	10	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	0.5915869177219809	act5
+YTHDC1	12.820512820512821	True	protein	6	0.2702342047930283	1	nucleus	biological regulation	regulation of biological process	binding	organic cyclic compound binding	actomyosin	-0.19902764817904503	act5

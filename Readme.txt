@@ -1,0 +1,1 @@
+This repository accompanies the cardiac maturation manuscript and includes the code to infer intermediary genes regulating cardiac muscle cell differentiation from an in input signal in Integrins and the Actomyosin network.
